@@ -38,7 +38,7 @@ const Banner = () => {
               viewport={{ once: true }}
               className="font-semibold font-averia"
             >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Hello, dolor sit amet consectetur adipisicing elit.
               Similique voluptates eveniet dolorem. Excepturi neque quibusdam
               accusantium debitis harum animi nihil, repellat sunt maiores.
             </motion.p>
